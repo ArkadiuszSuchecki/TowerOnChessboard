@@ -1,5 +1,2 @@
-Program written for automatic testing purposes with j unit.
-Creating board of any size (but no smaller than regular 8x8) 
-to place Tower figures at specific only and see possible 
-movement of said figures on board represented by numbers in 
-the table.
+This program, built for automatic testing with JUnit, generates a customizable board (minimum size 8x8) where Tower pieces can be placed at given coordinates. 
+It shows their possible moves on the board using a two-dimensional array of numbers.
